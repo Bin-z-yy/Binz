@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     }
     //////////
     //cclog("asdasd")
+    //Binz1
 
 }
 
